@@ -1,4 +1,4 @@
-:root {
+/* :root {
   --border-radius: 4px;
   --color-text: #333;
   --color-primary: #7026b9;
@@ -221,4 +221,12 @@ pre code:after,
 pre tt:before,
 pre tt:after {
   content: none;
+} */
+
+@font-face {
+  font-family: 'VCR OSD Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts/VCROSDMono.woff2) format('woff2');
 }

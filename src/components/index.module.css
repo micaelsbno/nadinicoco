@@ -1,7 +1,6 @@
-.list {
+/* .list {
   display: grid;
   margin: 0;
-  /* https://css-tricks.com/responsive-layouts-fewer-media-queries/ */
   --w: 280px;
   --n: 2;
   gap: var(--size-gap);
@@ -49,4 +48,8 @@
 .intro {
   max-width: none;
   line-height: var(--line-height-loose);
+} */
+
+.header {
+  font-family: 'VCR OSD Mono';
 }
